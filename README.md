@@ -1,4 +1,4 @@
-# Python-fun
+# Python-fun (smaller projects)
  A personal learning and development repository focused on building proficiency in Python programming. 
  
  The primary goal of this repo is to explore Python through hands-on experimentation, creative projects, and tool development.
